@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm *Your Name*, an Information Systems student who enjoys
+Hi! I'm *Jerald*, an Information Systems student who enjoys
 building useful and simple digital solutions.
 
 - 🎓 Currently studying Information Systems
