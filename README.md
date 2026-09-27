@@ -1,3 +1,28 @@
+# 👋 Hello, I'm jerald!
+
+<div align="center">
+
+### 💻 Information Systems Student | 🌐 Web Developer | 🚀 Future IT Professional
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0🟣blue,50:203A43,100:2C5364&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm *Your Name*, an Information Systems student who enjoys
+building useful and simple digital solutions.
+
+- 🎓 Currently studying Information Systems
+- 💻 Interested in Web Development
+- 🗄️ Interested in Database Management
+- 📱 Exploring modern technologies
+- 🚀 Building projects for real-world problems
+- 📚 Always learning something new
+
+---
 # 💫 Hi 👋, I'm Jerald 
 
 
@@ -7,6 +32,29 @@
 - 📫 **How to reach me:** JUST FIND ME
 - 😄 **My hubby:**PLAYING GAMES
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,bootstrap,figma" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💧 Water Refilling Delivery System
+A web-based system designed to manage customer orders,
+deliveries, inventory, and business transactions.
+
+### 🌸 Online Ordering System
+A platform that allows customers to browse products,
+submit orders, and monitor their transactions online.
+
+### 📚 Thesis & Capstone Repository
+A centralized web-based repository for storing and
+organizing academic research and capstone projects.
 
 
 ## 🌐 Socials:
