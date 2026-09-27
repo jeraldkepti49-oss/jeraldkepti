@@ -4,7 +4,7 @@
 
 ### 💻 Information Systems Student | 🌐 Web Developer | 🚀 Future IT Professional
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0🟣blue,50:203A43,100:2C5364&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,50:203A43,100:2C5364&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 - 📫 **How to reach me:** JUST FIND ME
 - 😄 **My hubby:**PLAYING GAMES
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🛠️ Technologies & Tools
+
 ## 👨‍💻 About Me
 
 Hi! I'm *Your Name*, an Information Systems student who enjoys
@@ -37,15 +37,11 @@ building useful and simple digital solutions.
 
 ---
 
----
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeraldkepti49-oss) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeraldkepti49-oss) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jeraldkepti49-oss) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jeraldkepti49-oss) 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
