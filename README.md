@@ -8,8 +8,21 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
+---
+# 💫 Hi 👋, I'm Jerald 
+
+
+- 🔭 **I’m student:** ZDSPGC
+- 🤔 **My age:**20
+- 💬 **Ask me about:** ANYTHING
+- 📫 **How to reach me:** JUST FIND ME
+- 😄 **My hubby:**PLAYING GAMES
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+## 🛠️ Technologies & Tools
 ## 👨‍💻 About Me
 
 Hi! I'm *Your Name*, an Information Systems student who enjoys
@@ -23,38 +36,8 @@ building useful and simple digital solutions.
 - 📚 Always learning something new
 
 ---
-# 💫 Hi 👋, I'm Jerald 
-
-
-- 🔭 **I’m student:** ZDSPGC
-- 🤔 **My age:**20
-- 💬 **Ask me about:** ANYTHING
-- 📫 **How to reach me:** JUST FIND ME
-- 😄 **My hubby:**PLAYING GAMES
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🛠️ Technologies & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,bootstrap,figma" />
-
-</p>
 
 ---
-
-## 🚀 Featured Projects
-
-### 💧 Water Refilling Delivery System
-A web-based system designed to manage customer orders,
-deliveries, inventory, and business transactions.
-
-### 🌸 Online Ordering System
-A platform that allows customers to browse products,
-submit orders, and monitor their transactions online.
-
-### 📚 Thesis & Capstone Repository
-A centralized web-based repository for storing and
-organizing academic research and capstone projects.
 
 
 ## 🌐 Socials:
