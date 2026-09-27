@@ -2,10 +2,10 @@
 
 
 - 🔭 **I’m student:** ZDSPGC
-- 🤔 **I’m looking for help with:**PROJECT
+- 🤔 **My age:**20
 - 💬 **Ask me about:** ANYTHING
 - 📫 **How to reach me:** JUST FIND ME
-- 😄 **Pronouns:**JERALD
+- 😄 **My hubby:**PLAYING GAMES
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
